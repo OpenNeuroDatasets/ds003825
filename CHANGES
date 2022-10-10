@@ -1,3 +1,5 @@
+1.2.0 2022-10-10
+  - fix: onset column in seconds as per BIDS standard. Thanks Alexandre Gramfort for providing patch
 1.1.2 2022-01-17
   - add link to publication
 1.1.1 2021-12-08
